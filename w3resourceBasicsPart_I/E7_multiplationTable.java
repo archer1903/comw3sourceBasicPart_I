@@ -2,9 +2,9 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class E7 {
+public class E7_multiplationTable {
     public static void main(String[] args) {
-//        7. Write a Java program that takes a number as input and prints its multiplication table upto 10. Go to the editor
+//        Write a Java program that takes a number as input and prints its multiplication table upto 10. Go to the editor
 //        Test Data:
 //        Input a number: 8
 //        Expected Output :

@@ -1,6 +1,6 @@
 package w3resourceBasicsPart_I;
 
-public class E8 {
+public class E8_writePattern {
     public static void main(String[] args) {
 //        8. Write a Java program to display the following pattern. Go to the editor
 //        Sample Pattern :

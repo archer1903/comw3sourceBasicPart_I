@@ -3,8 +3,9 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class C04_Exercise2 {
+public class E02_sumNumbers {
     public static void main(String[] args) {
+        // Write a Java program to print the sum of two numbers.
 
         int num1=74;
         int num2=36;

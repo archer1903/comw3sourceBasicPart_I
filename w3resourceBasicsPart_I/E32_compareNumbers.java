@@ -2,7 +2,7 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class E32_CompareNumbers {
+public class E32_compareNumbers {
     public static void main(String[] args) {
 
 //        Write a Java program to compare two numbers.

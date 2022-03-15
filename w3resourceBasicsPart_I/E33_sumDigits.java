@@ -2,7 +2,7 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class E33_SumDigits {
+public class E33_sumDigits {
     public static void main(String[] args) {
 //        Write a Java program and compute the sum of the digits of an integer. Go to the editor
 //        Input Data:

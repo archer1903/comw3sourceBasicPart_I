@@ -2,10 +2,11 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class C04_Exercise3 {
+public class E03_divideNumbers {
 
     public static void main(String[] args) {
 
+        //Write a Java program to divide two numbers and print on the screen.
         int num1=50;
         int num2=3;
 

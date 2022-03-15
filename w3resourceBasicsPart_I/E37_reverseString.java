@@ -2,7 +2,7 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class E37_Reverse_String {
+public class E37_reverseString {
     public static void main(String[] args) {
 //        Write a Java program to reverse a string. Go to the editor
 //        Input Data:

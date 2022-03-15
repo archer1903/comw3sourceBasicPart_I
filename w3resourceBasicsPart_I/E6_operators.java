@@ -2,7 +2,7 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class E6 {
+public class E6_operators {
     public static void main(String[] args) {
 
 //        Write a Java program to print the sum (addition),

@@ -2,7 +2,7 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class C04_Exercise1 {
+public class E01_writeName {
     public static void main(String[] args) {
 
         //Write a Java program to print 'Hello' on screen and then print your name on a separate line.

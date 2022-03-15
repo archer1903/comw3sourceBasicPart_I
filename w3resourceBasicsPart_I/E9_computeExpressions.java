@@ -1,6 +1,6 @@
 package w3resourceBasicsPart_I;
 
-public class E9 {
+public class E9_computeExpressions {
     public static void main(String[] args) {
 
 //        Write a Java program to compute the specified expressions and print the output. Go to the editor

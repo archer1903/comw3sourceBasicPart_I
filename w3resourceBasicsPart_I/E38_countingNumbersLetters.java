@@ -2,7 +2,7 @@ package w3resourceBasicsPart_I;
 
 import java.util.Scanner;
 
-public class E38_CountingNumbersLetters {
+public class E38_countingNumbersLetters {
     public static void main(String[] args) {
 //        38. Write a Java program to count the letters, spaces, numbers and other characters of an input string. Go to the editor
 //        Expected Output

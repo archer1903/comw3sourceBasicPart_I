@@ -1,6 +1,6 @@
 package w3resourceBasicsPart_I;
 
-public class E15_SwapVariables {
+public class E15_swapVariables {
     public static void main(String[] args) {
 
         //swap (takas) two variables
