@@ -1,4 +1,4 @@
-package w3resourceBasicsPart_I;
+package w3resourceBasicsPart_I.src;
 
 public class E9_computeExpressions {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package w3resourceBasicsPart_I;
+package w3resourceBasicsPart_I.src;
 
 public class E14_USAFlag {
     public static void main(String[] args) {
